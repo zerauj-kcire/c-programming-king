@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # update the solved problems
-pr -m <(ls exercises/*) <(ls examples/*) -f -h "CONTENTS" > README.txt;
+pr -m <(ls exercises/*) <(ls projects/*) -f -h "CONTENTS" > README.txt;
 # do the git stuff
 git add .
 read -p "Message to commit: " msg;
