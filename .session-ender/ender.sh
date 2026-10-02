@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # update the solved problems
-paste -d" " <(ls exercises/*) <(ls projects/*) | column -t -s " " \
+paste -d" " <(ls exercises/*) <(ls projects/*) \
+	| column -t -s " " -N "     EXERCISES,     PROJECTS" -m \
 	| pr -f -h "CONTENTS" -o 8 > README.txt;
 # do the git stuff
 git add .

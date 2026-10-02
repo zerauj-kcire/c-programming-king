@@ -45,6 +45,7 @@ int main(void){
 	int r;
 	r = 10 - ( ( gs1 + 3*gs2 + gs3 + 3*gi + pc1 + 3*pc2 + pc3 + 3*in1 + in2 +
 				3*in3 + in4 + 3*in5 ) % 10);
+
 	if (r == 0 ) c_calculated = 0;
 	else c_calculated = r;
 
