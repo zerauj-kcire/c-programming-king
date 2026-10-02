@@ -1,6 +1,6 @@
         
 
-        2026-09-30 19:44                     CONTENTS                     Page 1
+        2026-10-01 21:45                     CONTENTS                     Page 1
 
 
         exercises/chapt-2:  projects/chapt-2:
@@ -10,10 +10,10 @@
         exercises/chapt-3:  05-polinomial
         01                  06-polinomial-horner
         02                  07-cashier
-        03                  08
+        03                  08-loan-balance
         04                  
                             projects/chapt-3:
                             01-date
                             02-groceries
-                            03-ISBN-books
+                            03-ISBN-DIGIT-CHECKER
 
