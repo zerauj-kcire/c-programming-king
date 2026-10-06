@@ -1,6 +1,6 @@
         
 
-        2026-10-05 20:08                     CONTENTS                     Page 1
+        2026-10-05 20:14                     CONTENTS                     Page 1
 
 
              EXERCISES                              PROJECTS                            
@@ -19,4 +19,5 @@
                                                03-ISBN-DIGIT-CHECKER                    
                                                04-telephone                             
                                                05-matrix                                
+                                               06-fractions                             
 
