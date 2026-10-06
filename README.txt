@@ -1,6 +1,6 @@
         
 
-        2026-10-05 20:14                     CONTENTS                     Page 1
+        2026-10-06 14:07                     CONTENTS                     Page 1
 
 
              EXERCISES                              PROJECTS                            
@@ -9,11 +9,11 @@
         04-def-vals                            03-volume-sphere                         
                                                04-tax                                   
         exercises/chapt-3:                     05-polinomial                            
-        01                                     06-polinomial-horner                     
-        02                                     07-cashier                               
-        03                                     08-loan-balance                          
-        04                                                                              
-                                               projects/chapt-3:                        
+        01-print                               06-polinomial-horner                     
+        02-float                               07-cashier                               
+        03-scanf                               08-loan-balance                          
+        04-values-error                                                                 
+        05-values-error                        projects/chapt-3:                        
                                                01-date                                  
                                                02-groceries                             
                                                03-ISBN-DIGIT-CHECKER                    
