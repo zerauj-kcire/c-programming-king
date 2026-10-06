@@ -1,6 +1,6 @@
         
 
-        2026-10-06 14:07                     CONTENTS                     Page 1
+        2026-10-06 14:13                     CONTENTS                     Page 1
 
 
              EXERCISES                              PROJECTS                            
@@ -14,7 +14,7 @@
         03-scanf                               08-loan-balance                          
         04-values-error                                                                 
         05-values-error                        projects/chapt-3:                        
-                                               01-date                                  
+        06-addfrac                             01-date                                  
                                                02-groceries                             
                                                03-ISBN-DIGIT-CHECKER                    
                                                04-telephone                             
