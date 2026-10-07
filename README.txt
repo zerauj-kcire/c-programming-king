@@ -1,6 +1,6 @@
         
 
-        2026-10-06 14:26                     CONTENTS                     Page 1
+        2026-10-06 19:04                     CONTENTS                     Page 1
 
 
              EXERCISES                              PROJECTS                            
@@ -20,4 +20,11 @@
                                                04-telephone                             
                                                05-matrix                                
                                                06-fractions                             
+                                               projects/chapt-4:                        
+                                               01-reverse-2-digit                       
+                                               02-reverse-3-digit                       
+                                               03-reverse-int                           
+                                               04-octal                                 
+                                               05-upc                                   
+                                               06-upc-european                          
 
