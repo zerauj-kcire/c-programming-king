@@ -1,6 +1,6 @@
         
 
-        2026-10-06 20:14                     CONTENTS                     Page 1
+        2026-10-07 19:11                     CONTENTS                     Page 1
 
 
         EXERCISES and TESTS                            PROJECTS                         
@@ -28,4 +28,6 @@
         05-mixed-types-cond                       04-octal                              
                                                   05-upc                                
                                                   06-upc-european                       
+                                                  projects/chapt-5:                     
+                                                  01-digits                             
 
