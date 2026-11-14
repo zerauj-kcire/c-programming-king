@@ -1,6 +1,6 @@
         
 
-        2026-10-08 10:27                     CONTENTS                     Page 1
+        2026-11-14 13:27                     CONTENTS                     Page 1
 
 
         EXERCISES and TESTS                            PROJECTS                         
@@ -26,9 +26,11 @@
         03-cond-expres                            02-reverse-3-digit                    
         04-switch-grades                          03-reverse-int                        
         05-mixed-types-cond                       04-octal                              
-                                                  05-upc                                
-                                                  06-upc-european                       
-                                                  projects/chapt-5:                     
+        06-arrays                                 05-upc                                
+        07-digits-seen                            06-upc-european                       
+        08-sizeof                                                                       
+        09-interest                               projects/chapt-5:                     
                                                   01-digits                             
                                                   02-24hr-to-12hr-format                
+                                                  03-broker                             
 
